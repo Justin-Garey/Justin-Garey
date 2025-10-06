@@ -6,11 +6,16 @@
 - Interested in software development, networking, cellular communications, and cloud
 - AWS Certified AI Practitioner 
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,react,tailwind,html,css,js,ts,bash,c,cpp,py,)](https://skillicons.dev)
+
 ## What I Can Do
 - Languages: C/C++, Python, Shell Scripting, JS/TS
-- Frontend: React, ReactNative, Tailwind CSS, Bootstrap, HTML, CSS
-- Backend: Flask, FastAPI, Node, CivetWeb
-- Tools: Git, AWS, Jira, GNURadio
+- Frontend: Vite, React, ReactNative, Tailwind CSS, Bootstrap, HTML, CSS
+- Backend: Flask, FastAPI, Node.js, CivetWeb
+- Tools: Git, AWS, Jira, GNURadio, Proxmox, LaTeX, Arduino IDE
+- Hardware: Raspberry Pi, Arduino, Microcontrollers
 - Other: WinProp, PropSim, USRPs
 
 ## What I'm Doing
@@ -20,15 +25,9 @@
 
 ## My Favorite Projects
 - HomeLab
-  - Tailscale/Headscale is used to connect me to my HomeLab from anywhere
-  - On the HomeLab is Gitea, HomeAssistant, and more
+  - Tailscale/Headscale is used to connect me to my HomeLab from anywhere over a mesh VPN
+  - In the HomeLab is Proxmox, Gitea, Home Assistant, and more
+- Log4j exploit [demonstration](https://github.com/Justin-Garey/Minecraft-Log4j-Exploit) using Minecraft
+  - Along with a [video demonstration](https://youtu.be/VQd_KDiQRiY)
 - Smart LED using an esp module
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Justin-Garey&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Justin-Garey&theme=highcontrast&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Garey&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
