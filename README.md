@@ -25,7 +25,7 @@
 
 ## My Favorite Projects
 - HomeLab
-  - [Tailscale](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/tailscale.md)/[Headscale](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/headscale.md) is used to connect me to my HomeLab from anywhere over a mesh VPN
+  - [Tailscale](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/tailscale.md) and [Headscale](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/headscale.md) are used to connect me to my HomeLab from anywhere over a mesh VPN
   - In the HomeLab is [Proxmox](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/proxmox.md), [Gitea](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/gitea.md), Home Assistant, and more
 - [Log4j exploit](https://github.com/Justin-Garey/Minecraft-Log4j-Exploit) using Minecraft
   - Along with a [video demonstration](https://youtu.be/VQd_KDiQRiY)
