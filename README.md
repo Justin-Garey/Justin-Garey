@@ -29,5 +29,7 @@
   - In the HomeLab is [Proxmox](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/proxmox.md), [Gitea](https://github.com/Justin-Garey/Guides/blob/main/self_hosting/gitea.md), Home Assistant, and more
 - [Log4j exploit](https://github.com/Justin-Garey/Minecraft-Log4j-Exploit) using Minecraft
   - Along with a [video demonstration](https://youtu.be/VQd_KDiQRiY)
-- Smart LED using an esp module
+- Laser Engraved Coin Design Generation
+  - This was initially made to make a birthday gift for a friend, but it's turned into even more. Taking the image of a cat, a coin design is made. This has also been used to make stickers and the program is able to create a CAD model of the coin. Future applications include more general design applications such as laser engraving non-metal materials and woodburning. With the CAD model, the coin can be 3D printed, etched and cut with a water jet, or created with a CNC mill.
+
 
