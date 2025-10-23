@@ -31,5 +31,5 @@
   - Along with a [video demonstration](https://youtu.be/VQd_KDiQRiY)
 - Laser Engraved Coin Design Generation
   - This was initially made to make a birthday gift for a friend, but it's turned into even more. Taking the image of a cat, a coin design is made. This has also been used to make stickers and the program is able to create a CAD model of the coin. Future applications include more general design applications such as laser engraving non-metal materials and woodburning. With the CAD model, the coin can be 3D printed, etched and cut with a water jet, or created with a CNC mill.
-
+![Coin Engraving Design Generation Process](https://justin-garey-public-storage.s3.us-east-2.amazonaws.com/GitHub-README/coin_engraving_design_generation.png)
 
