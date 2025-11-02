@@ -16,7 +16,7 @@
 - Backend: Flask, FastAPI, Node.js, CivetWeb
 - Tools: Git, AWS, Jira, GNURadio, Proxmox, LaTeX, Arduino IDE
 - Hardware: Raspberry Pi, Arduino, Microcontrollers
-- Other: WinProp, PropSim, USRPs
+- Other: WinProp, PropSim, USRPs, HackRF
 
 ## What I'm Doing
 - Studying for the AWS Certified Solutions Architect - Associate
